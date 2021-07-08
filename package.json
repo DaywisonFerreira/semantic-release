@@ -18,18 +18,23 @@
     "test:watch": "jest --watch",
     "test:cov": "jest --coverage",
     "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register node_modules/.bin/jest --runInBand",
-    "test:e2e": "jest --config ./test/jest-e2e.json"
+    "test:e2e": "jest --config ./test/jest-e2e.json",
+    "commitizen-friendly": "commitizen init cz-conventional-changelog --yarn --dev --exact",
+    "commit": "cz",
+    "release": "semantic-release --no-ci"
   },
   "dependencies": {
     "@nestjs/common": "^7.0.0",
     "@nestjs/core": "^7.0.0",
-    "@nestjs/platform-express": "^7.0.0",
-    "commitizen": "^4.2.4",
+    "@nestjs/platform-express": "^7.0.0",    
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
-    "rxjs": "^6.5.4"
+    "rxjs": "^6.5.4"    
   },
   "devDependencies": {
+    "semantic-release": "^17.4.4",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
     "@nestjs/cli": "^7.0.0",
     "@nestjs/schematics": "^7.0.0",
     "@nestjs/testing": "^7.0.0",
@@ -39,6 +44,8 @@
     "@types/supertest": "^2.0.8",
     "@typescript-eslint/eslint-plugin": "3.0.2",
     "@typescript-eslint/parser": "3.0.2",
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "3.3.0",
     "eslint": "7.1.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-import": "^2.20.1",
@@ -64,5 +71,10 @@
     },
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
