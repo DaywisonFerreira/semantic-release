@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/DaywisonFerreira/semantic-release/compare/v1.2.0...v2.0.0) (2021-07-08)
+
+
+### Features
+
+* adjust message ([267747c](https://github.com/DaywisonFerreira/semantic-release/commit/267747c2789377de9ed237986401f8c570d4cfd6))
+
+
+### BREAKING CHANGES
+
+* set to use the latest node version
+
 # [1.2.0](https://github.com/DaywisonFerreira/semantic-release/compare/v1.1.1...v1.2.0) (2021-07-08)
 
 
