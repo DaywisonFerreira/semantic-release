@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/DaywisonFerreira/semantic-release/compare/v1.1.0...v1.1.1) (2021-07-08)
+
+
+### Bug Fixes
+
+* adjust return of the getHello function ([98e4c38](https://github.com/DaywisonFerreira/semantic-release/commit/98e4c383f96d0cafbac0d40763c42e201dd816d8))
+
 # [1.1.0](https://github.com/DaywisonFerreira/semantic-release/compare/v1.0.0...v1.1.0) (2021-07-08)
 
 
