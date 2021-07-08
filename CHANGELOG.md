@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/DaywisonFerreira/semantic-release/compare/v1.1.1...v1.2.0) (2021-07-08)
+
+
+### Features
+
+* other Major version ([2f6e723](https://github.com/DaywisonFerreira/semantic-release/commit/2f6e7234a6cba41b4d6cabc0743e4fadd83b8cf4))
+
 ## [1.1.1](https://github.com/DaywisonFerreira/semantic-release/compare/v1.1.0...v1.1.1) (2021-07-08)
 
 
