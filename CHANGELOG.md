@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/DaywisonFerreira/semantic-release/compare/v1.0.0...v1.1.0) (2021-07-08)
+
+
+### Features
+
+* remove env.example ([daaf184](https://github.com/DaywisonFerreira/semantic-release/commit/daaf1849000dde6d0bed6d12f8da62e7b95f83c3))
+
 # 1.0.0 (2021-07-08)
 
 
