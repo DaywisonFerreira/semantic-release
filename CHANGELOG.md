@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/DaywisonFerreira/semantic-release/compare/v2.0.0...v3.0.0) (2021-07-09)
+
+
+### Features
+
+* test ([9b8eb2f](https://github.com/DaywisonFerreira/semantic-release/commit/9b8eb2fee3ffc6509122b5c39e00c2a7ff6a4e2b))
+
+
+### BREAKING CHANGES
+
+* dadasdasddasdasd
+
 # [2.0.0](https://github.com/DaywisonFerreira/semantic-release/compare/v1.2.0...v2.0.0) (2021-07-08)
 
 
