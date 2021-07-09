@@ -1,3 +1,16 @@
+# [1.2.0](https://github.com/DaywisonFerreira/semantic-release/compare/v1.1.0...v1.2.0) (2021-07-09)
+
+
+### Bug Fixes
+
+* adjust message ([26c9ab5](https://github.com/DaywisonFerreira/semantic-release/commit/26c9ab57ec9f02b394a28ae000639ccb43452fde))
+
+
+### Features
+
+* change message ([e6ec45d](https://github.com/DaywisonFerreira/semantic-release/commit/e6ec45df2b7a5e1edc1c8d56c360be65f573f6f9))
+* remove file ([be8dd25](https://github.com/DaywisonFerreira/semantic-release/commit/be8dd25d200981cac156122852c01abfcd367a68))
+
 # [1.1.0](https://github.com/DaywisonFerreira/semantic-release/compare/v1.0.0...v1.1.0) (2021-07-09)
 
 
