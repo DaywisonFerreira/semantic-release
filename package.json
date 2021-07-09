@@ -25,7 +25,7 @@
     "test:e2e": "jest --config ./test/jest-e2e.json",
     "commitizen-friendly": "commitizen init cz-conventional-changelog --yarn --dev --exact",
     "commit": "cz",
-    "semantic-release": "semantic-release --no-ci"
+    "semantic-release": "semantic-release"
   },
   "dependencies": {
     "@nestjs/common": "^7.0.0",
